@@ -2,7 +2,8 @@
 Unity Game Project Spring 2021 for CISC 3667
 
 A bullet hell shooter game
-Playable link on itch.io: https://tianyechen.itch.io/worldreaver
+
+Playable on itch.io: https://tianyechen.itch.io/worldreaver
 
 Features:
 - A large number of game altering settings
